@@ -18,3 +18,13 @@ To run this project, install it locally using npm:
 ```
 npm install
 ```
+
+
+## Heroku Deployment
+
+[Click here to view deployed app!](https://warm-anchorage-35231.herokuapp.com/)
+
+
+
+## Contact
+If you have any questions about the repo, please feel free to contact me directly at [Email](mailto:atwood169@yahoo.com).
